@@ -3,9 +3,9 @@
 **.:: Welcome! ::.
 Code Monkeys is a discord server dedicated to giving and receiving great help and advice for a variety of programming languages. Help us build a large and friendly community!**
 
-Permanent invite link is http://discord.me/cm, please refrain from creating your own permanent ones. (We clear out permanent invite links)
+Permanent invite link is <http://discord.me/cm> (or <https://discord.com/invite/Q6nehyS>), please refrain from creating your own permanent ones. (We clear out permanent invite links)
 
-If you need help, mention @Staff for the attention of Moderators and Administrators.
+If you need help, DM @MonkeyMail#6775 first. If immediate action is required than you can mention @Staff for the attention of Moderators and Administrators.
 Here are some things to keep in mind while being a part of the Code Monkeys Community.
 
 0. Arrays always start at zero.
@@ -53,4 +53,7 @@ Here are some things to keep in mind while being a part of the Code Monkeys Comm
 
  
 13. Do not Direct Message ANY staff members to inquire about a question, please post it in the appropriate channel.
+
+
+14. @MonkeyMail#6775 is not intended for programming support please us the respective channels.
 ```
